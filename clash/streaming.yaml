@@ -1,0 +1,17 @@
+payload:
+  #域名后缀匹配
+  - DOMAIN-SUFFIX,omofuna.com
+  - DOMAIN-SUFFIX,hdmoli.org
+
+  - DOMAIN-SUFFIX,byteicdn.com
+  #全域名匹配
+  - DOMAIN,v16s.byteicdn.com
+
+  #域名关键字匹配
+  - DOMAIN-KEYWORD,omofun
+  - DOMAIN-KEYWORD,hdmoli
+  - DOMAIN-KEYWORD,cdn
+  - DOMAIN-KEYWORD,mpv
+  - DOMAIN-KEYWORD,m3u8
+  - DOMAIN-KEYWORD,video
+  
